@@ -46,7 +46,7 @@ class Tree():
 
 obj = Tree()
 obj.insert(3)
-obj.insert(50)
+obj.insert(5)
 obj.insert(13)
 obj.insert(14)
 print(obj.find(15))
