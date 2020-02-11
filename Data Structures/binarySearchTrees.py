@@ -45,7 +45,7 @@ class Tree():
 
 
 obj = Tree()
-obj.insert(3)
+obj.insert(4)
 obj.insert(5)
 obj.insert(13)
 obj.insert(14)
